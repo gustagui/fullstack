@@ -1,3 +1,1 @@
-console.log("hello world");
-
-let numeroDaSorte = 42;
+let curso = "full stack";
